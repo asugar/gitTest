@@ -1,5 +1,6 @@
 test conflict in master
-test comflict wang
+test comflict wang wang
+w
 
 hello usc
 this is first repair

@@ -1,3 +1,5 @@
+test reset
+
 test conflict in master
 test comflict wang wang
 w
